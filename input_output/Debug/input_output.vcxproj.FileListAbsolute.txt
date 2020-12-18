@@ -1,0 +1,2 @@
+D:\study_source\c_code\test12.18\input_output\Debug\input_output.exe
+D:\study_source\c_code\test12.18\input_output\Debug\input_output.pdb
