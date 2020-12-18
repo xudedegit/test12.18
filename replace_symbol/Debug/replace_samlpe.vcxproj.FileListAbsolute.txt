@@ -1,0 +1,2 @@
+D:\study_source\c_code\test12.18\replace_samlpe\Debug\replace_symbol.exe
+D:\study_source\c_code\test12.18\replace_samlpe\Debug\replace_symbol.pdb
