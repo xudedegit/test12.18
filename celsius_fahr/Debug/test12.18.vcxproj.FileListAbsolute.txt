@@ -1,0 +1,2 @@
+D:\study_source\c_code\test12.18\celsius_fahr\Debug\test12.18.exe
+D:\study_source\c_code\test12.18\celsius_fahr\Debug\test12.18.pdb
