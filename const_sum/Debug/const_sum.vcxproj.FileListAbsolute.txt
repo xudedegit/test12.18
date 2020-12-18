@@ -1,0 +1,2 @@
+D:\study_source\c_code\test12.18\const_sum\Debug\const_sum.exe
+D:\study_source\c_code\test12.18\const_sum\Debug\const_sum.pdb
