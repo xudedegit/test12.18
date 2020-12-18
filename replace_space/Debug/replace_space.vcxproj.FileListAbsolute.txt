@@ -1,0 +1,2 @@
+D:\study_source\c_code\test12.18\replace_space\Debug\replace_space.exe
+D:\study_source\c_code\test12.18\replace_space\Debug\replace_space.pdb
