@@ -1,0 +1,3 @@
+﻿  celsius_fahr_rever.c
+D:\study_source\c_code\test12.18\celsius_fahr_rever\celsius_fahr_rever.c(15,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  celsius_fahr_rever.vcxproj -> D:\study_source\c_code\test12.18\celsius_fahr_rever\Debug\celsius_fahr_rever.exe

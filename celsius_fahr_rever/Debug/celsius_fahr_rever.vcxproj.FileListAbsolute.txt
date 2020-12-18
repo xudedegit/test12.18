@@ -1,0 +1,2 @@
+D:\study_source\c_code\test12.18\celsius_fahr_rever\Debug\celsius_fahr_rever.exe
+D:\study_source\c_code\test12.18\celsius_fahr_rever\Debug\celsius_fahr_rever.pdb
